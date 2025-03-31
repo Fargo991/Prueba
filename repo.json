@@ -3,6 +3,6 @@
     "description": "DiziPal içerikleri ve NeonSpor",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://github.com/Fargo991/Prueba/builds/plugins.json"
+      "https://raw.githubusercobtent.com/Fargo991/Prueba/builds/plugins.json"
     ]
 }
